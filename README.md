@@ -1,5 +1,8 @@
 # ポートフォリオサイト - 模写コーディング
 
+codejumpの模写練習6つ目です。
+https://code-jump.com/portfolio1-menu/
+
 ## 🚀 制作ステータス
 - **対応範囲**: コーディング（HTML/CSS）、レスポンシブ対応
 - **デプロイ**: [GitHub Pages](https://kana10-dev.github.io/codejump-portfolio1/)
