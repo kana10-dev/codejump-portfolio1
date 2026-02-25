@@ -1,6 +1,6 @@
 # ポートフォリオサイト - 模写コーディング
 
-codejumpの模写練習6つ目です。
+codejumpの模写練習7つ目です。
 https://code-jump.com/portfolio1-menu/
 
 ## 🚀 制作ステータス
